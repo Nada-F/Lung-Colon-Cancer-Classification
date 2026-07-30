@@ -1,5 +1,0 @@
-*.keras
-*.h5
-venv/
-__pycache__/
-.ipynb_checkpoints/
